@@ -44,4 +44,4 @@ def handle_chat(request: ChatRequest):
     ai_response = f"Backend received your message: '{user_message}'. Paragon AI is not yet connected to an LLM."
 
     # Send the response back as JSON
-    return {"reply": ai_response}}
+    return {"reply": ai_response}
