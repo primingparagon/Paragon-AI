@@ -11,8 +11,8 @@ app = FastAPI()
 # This tells the server to accept requests from your
 # local testing address.
 origins = [
-    # "https://primingparagon.org",
-    # "https://www.primingparagon.org"
+    # "palegoldenrod-nightingale-250665.hostingersite.com",
+    # "palegoldenrod-nightingale-250665.hostingersite.com"
     # --- UPDATED ---
     # We've commented out the "live" addresses and are
     # now only allowing the "temporary" local testing option.
