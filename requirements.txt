@@ -1,6 +1,6 @@
-# File name: requirements.txt
-
 fastapi
 uvicorn
 pydantic
 google-generativeai
+python-multipart
+requests
